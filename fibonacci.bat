@@ -5,7 +5,7 @@
 title Fibonacci Numbers
 
 setlocal enableextensions enabledelayedexpansion
-set n=15
+set n=%1
 
 set a=1
 set b=1
